@@ -11,6 +11,7 @@
 
 
 function soma(){
-    const resultado = 2 + 2;
+    //const resultado = 2 + 2;
+    return 2 + 2;
 }
 console.log(soma());
